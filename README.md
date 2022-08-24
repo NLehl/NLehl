@@ -1,2 +1,2 @@
 # NikitasRepository
-suk makake
+suk makak
