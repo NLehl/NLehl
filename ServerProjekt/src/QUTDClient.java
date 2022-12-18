@@ -6,7 +6,7 @@ public class QUTDClient extends Client{
 	}
 
 	@Override
-	public void processMessage(String message) {s
+	public void processMessage(String message) {
 		JOptionPane.showMessageDialog(null, "Server sendet:\n"
 															+message);
 		
